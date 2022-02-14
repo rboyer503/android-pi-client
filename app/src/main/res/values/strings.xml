@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pi-client</string>
+    <string name="connect_button">Connect</string>
+    <string name="disconnect_button">Disconnect</string>
+    <string name="mode_button">Toggle Mode</string>
+    <string name="preference_file_key">com.derelictvesseldev.pi_client.CONNECTION_PARAMS</string>
+    <string name="host_text">Host:</string>
+    <string name="password_text">Password:</string>
+    <string name="host_hint">Enter server hostname/IP</string>
+    <string name="password_hint">Enter password</string>
+    <string name="image_view_desc">Monitor window</string>
+</resources>
